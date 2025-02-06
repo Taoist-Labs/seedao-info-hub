@@ -1,0 +1,234 @@
+:root {
+  --primary-color: #0f172a;
+  --secondary-color: #334155;
+  --text-color: #4b5563;
+  --light-text: #6b7280;
+  --link-color: #3b82f6;
+  --link-hover: #2563eb;
+  --background: #ffffff;
+  --light-background: #f8fafc;
+  --border-color: #e2e8f0;
+  --hover-bg: #f1f5f9;
+  --accent-color: #3b82f6;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  line-height: 1.6;
+  color: var(--text-color);
+  background: var(--background);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  flex: 1;
+  max-width: 800px;
+  width: calc(100% - 4rem);
+  margin: 0 auto;
+  padding: 3rem 0;
+  animation: fadeIn 0.5s ease-out;
+}
+
+.container {
+  padding: 0 2rem;
+}
+
+h1 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  color: var(--primary-color);
+  margin-bottom: 3rem;
+  letter-spacing: -0.025em;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--secondary-color);
+  margin: 2rem 0 1rem;
+  letter-spacing: -0.025em;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.75rem;
+}
+
+li {
+  margin: 0;
+  padding: 0;
+  transition: transform 0.2s ease, opacity 0.3s ease;
+}
+
+li:hover {
+  transform: translateX(4px);
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+  font-weight: 400;
+  transition: all 0.2s ease;
+  display: block;
+  padding: 0.5rem 0;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+a:hover {
+  color: var(--link-hover);
+}
+
+li::before {
+  display: none;
+}
+
+/* Add a subtle animation for content loading */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  body {
+    padding: 1.5rem 1.5rem 0 1.5rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+    margin: 2rem 0 1rem;
+  }
+
+  li {
+    padding: 1rem;
+  }
+
+  main {
+    width: calc(100% - 2rem);
+    padding: 2rem 0;
+  }
+  
+  .container {
+    padding: 0 1rem;
+  }
+}
+
+/* Meta information styling */
+.meta {
+  color: var(--light-text);
+  font-size: 0.875rem;
+  margin-top: 0.5rem;
+}
+
+/* Section styling */
+section {
+  margin: 2.5rem 0;
+}
+
+/* Footer styling */
+footer {
+  background-color: var(--light-background);
+  color: var(--text-color);
+  text-align: center;
+  padding: 1.5rem 0;
+  margin-top: 4rem;
+  width: 100%;
+  border-top: 1px solid var(--border-color);
+  font-size: 0.875rem;
+}
+
+/* Search container styling */
+.search-container {
+  margin: 2rem 0;
+  display: flex;
+  gap: 1rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#search {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  border: 2px solid var(--border-color);
+  border-radius: 8px;
+  outline: none;
+  transition: all 0.2s ease;
+}
+
+#search:focus {
+  border-color: var(--link-color);
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+#searchButton {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  color: white;
+  background-color: var(--link-color);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+#searchButton:hover {
+  background-color: var(--link-hover);
+}
+
+@media (max-width: 768px) {
+  .search-container {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  #searchButton {
+    width: 100%;
+  }
+}
+
+/* Search results styling */
+.no-results {
+  text-align: center;
+  color: var(--light-text);
+  padding: 2rem;
+  font-size: 1.1rem;
+  background: var(--light-background);
+  border-radius: 8px;
+  margin: 2rem 0;
+}
+
+/* Highlight matching text */
+.highlight {
+  background-color: rgba(59, 130, 246, 0.1);
+  padding: 0.1em 0.2em;
+  border-radius: 3px;
+}
+
+li[style*="display: none"] {
+  opacity: 0;
+  transform: translateY(-10px);
+}
