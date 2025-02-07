@@ -7,14 +7,14 @@ title: SeeDAO Info Hub
     <meta name="description" content="Explore guides, rules, tools, news, and archive data related to SeeDAO.">
     <link rel="stylesheet" type="text/css" href="styles.css">
     <script src="search.js"></script>
-    <link rel="icon" type="image/svg+xml" href="/images/logo.svg">
+    <link rel="icon" type="image/svg+xml" href="images/logo.svg">
 </head>
 
 <main>
 <div class="container">
 
 <div class="site-header">
-    <img src="/images/logo.svg" alt="SeeDAO Info Hub Logo" class="site-logo">
+    <img src="images/logo.svg" alt="SeeDAO Info Hub Logo" class="site-logo">
 </div>
 
 # Welcome to the SeeDAO Info Hub
