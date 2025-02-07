@@ -13,4 +13,5 @@ module.exports = function(eleventyConfig) {
       output: "dist"
     },
     pathPrefix: pathPrefix
+  };
 };
