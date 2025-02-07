@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="50" viewBox="0 0 200 50" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .text { font-family: Arial, sans-serif; font-size: 24px; fill: #333; }
+        .highlight { fill: #4a90e2; }
+    </style>
+    <g>
+        <text x="10" y="35" class="text">
+            <tspan class="highlight">See</tspan>DAO Info Hub
+        </text>
+    </g>
+</svg>
