@@ -1,10 +1,10 @@
 ---
-title: SeeDAO Info Hub
+title: SeeDAO信息导航
 ---
 
 <head>
-    <title>SeeDAO Info Hub</title>
-    <meta name="description" content="Explore guides, rules, tools, news, and archive data related to SeeDAO.">
+    <title>SeeDAO信息导航</title>
+    <meta name="description" content="SeeDAO信息导航｜所有SeeDAO相关的指引、规范、工具和新闻链接聚合">
     <link rel="stylesheet" type="text/css" href="styles.css">
     <script src="search.js"></script>
     <link rel="icon" type="image/svg+xml" href="images/logo.svg">
@@ -17,7 +17,7 @@ title: SeeDAO Info Hub
     <img src="images/logo.svg" alt="SeeDAO Info Hub Logo" class="site-logo">
 </div>
 
-# Welcome to the SeeDAO Info Hub
+# 欢迎来到信息导航，一起探索SeeDAO
 
 <div class="search-container">
     <input type="text" id="search" placeholder="Search for guides, tools, or documentation..." />
@@ -26,45 +26,57 @@ title: SeeDAO Info Hub
 
 Explore the various sections of our info hub to find guides, tools, news, and more about SeeDAO.
 
-## Guides
-Welcome to the Guides section of SeeDAO Info Hub. Here you will find comprehensive guides to help you get started and make the most of SeeDAO.
-- [新手入门指南](https://app.seedao.xyz/guide/getting-started)
-- [贡献者指南](https://app.seedao.xyz/guide/contributor)
-- [SeeDAO App Guide](https://app.seedao.xyz/guide)
-- [SeeDAO Seed Guide](https://seed.seedao.xyz/guide)
-- [SeeDAO OS Guide](https://docs.seedao.tech/guide)
+## 社区各站点
+- [SeeDAO官网](https://seedao.xyz/)
+- [SeeDAO节点大会网站](https://node.seedao.xyz/)
+- [SeeDAO SEED官网](https://seed.seedao.xyz/)
+- [SeeDAO孵化器官网(beta)](https://beta.seedao.cc/)
+- [SeeDAO App/OS官网](https://app.seedao.xyz/)
+- [SeeDAO App/OS Docs官网](https://docs.seedao.tech/)
+- [SeeDAO Notion](https://seedao.notion.site/)
+- [SeeDAO Github](https://github.com/seedao-opensource)
+- [SeeDAO App/OS Github](https://github.com/openpolis-dev)
 
-## Rules & Policies
-This section contains the rules and policies that govern SeeDAO. Please familiarize yourself with these documents to ensure compliance and understanding.
-- [社区准则](https://app.seedao.xyz/rules/community)
-- [治理规则](https://app.seedao.xyz/rules/governance)
-- [SeeDAO App Rules](https://app.seedao.xyz/rules)
-- [SeeDAO Seed Rules](https://seed.seedao.xyz/rules)
-- [SeeDAO OS Rules](https://docs.seedao.tech/rules)
+## 社区社交媒体
+- [SeeDAO X(中文)](https://x.com/see_dao)
+- [SeeDAO X(英文)](https://x.com/en_seedao)
+- [SeeDAO Discord](https://discord.com/invite/seedao-xyz)
+- [SeeDAO Telegram](https://t.me/theseedao)
+- [SeeDAO Mirror](https://seedao.mirror.xyz)
+- [SeeDAO微信公众号](https://mp.weixin.qq.com/s/GVEmjH0jnBNnUhCTS1iZZA)
 
-## Tools & Apps
-Access the tools and apps that power SeeDAO's operations. Below are links to various tools and their documentation.
-- [治理平台](https://gov.seedao.xyz)
-- [社区论坛](https://forum.seedao.xyz)
-- [SeeDAO App Tools](https://app.seedao.xyz/tools)
-- [SeeDAO Seed Tools](https://seed.seedao.xyz/tools)
-- [SeeDAO OS Tools](https://docs.seedao.tech/tools)
+## 社区资料
+- [SeeDAO SEED Opensea](https://opensea.io/collection/seedaoseed)
+- [SeeDAO元规则（SIP-2）](https://seedao.notion.site/SeeDAO-SIP-2-a4720f18c068455785a7a9ee5fd626ee)
+- [节点共识大会规则（SIP-20）](https://seedao.notion.site/SIP-20-720aa499e0124838974dfcb44d4bcb44)
+- [治理手册（SIP-19）](https://seedao.notion.site/SIP-19-cadf3c7691b84e4bbc8b4620110fe9ce)
+- [SeeDAO白皮书）](https://seedao.xyz/SeeDAO-WhitePaper.pdf)
+- [当季节点列表](https://app.seedao.xyz/node)
+- [SeeDAO积分总榜](https://app.seedao.xyz/ranking)
 
-## News
-Stay updated with the latest news and announcements from SeeDAO.
-- [最新公告](https://app.seedao.xyz/news/announcements)
-- [社区动态](https://app.seedao.xyz/news/community)
-- [SeeDAO App News](https://app.seedao.xyz/news)
-- [SeeDAO Seed News](https://seed.seedao.xyz/news)
-- [SeeDAO OS News](https://docs.seedao.tech/news)
+## 社区应用
+- [SNS注册](https://app.seedao.xyz/sns/register)
+- [社区日历](https://app.seedao.xyz/online-event)
+- [SeeTalk博客](https://www.xiaoyuzhoufm.com/podcast/64a27b216d90c5786108abbc)
+- [治理提案](https://app.seedao.xyz/proposal)
+- [社区资源使用申请](https://app.seedao.xyz/resources)
 
-## Archive Data
-Explore archived data and historical records of SeeDAO activities.
-- [历史提案](https://app.seedao.xyz/archive/proposals)
-- [会议记录](https://app.seedao.xyz/archive/meetings)
-- [SeeDAO Node Conference](https://node.seedao.xyz/history)
-- [SeeDAO Seed History](https://seed.seedao.xyz/history)
-- [SeeDAO OS History](https://docs.seedao.tech/history)
+## SeeDAO 合约地址
+- [SeeDAO Seed合约(Ethereum)](https://etherscan.io/address/0x30093266e34a816a53e302be3e59a93b52792fd4)
+- [SeeDAO节点SBT(Ethereum)](https://etherscan.io/address/0x9d34D407D8586478b3e4c39BE633ED3D7be1c80C)
+- [SeeDAO SNS合约(Polygon)](https://polygonscan.com/token/0x5f3bd0ce4445e96f2d7dcc4bba883378ead8e10f)
+- [SeeDAO SCR合约(Polygon)](https://polygonscan.com/address/0xe4825a1a31a76f72befa47f7160b132aa03813e0)
+- [SeeDAO SCR借贷合约(Polygon)](https://polygonscan.com/address/0x6D0a9cE4D1aCf0e1e0e1e0e1e0e1e0e1e0e1e0c)
+- [(前)市政厅成员SBT合约/小额提案委员会SBT合约(Polygon)](https://polygonscan.com/address/0xab9b36bc114c433182ebe840fa966a5808883661)
+- [市政厅成员SBT合约(Polygon)](https://polygonscan.com/address/0x7a5634B2f0453FE140A5ED5e0acC44e38C7FceDE)
+- [小额提案委员会SBT合约(Polygon)](https://polygonscan.com/address/0x4c844bDcEA0Be193c685ddE2Bb5c5609486a6B38)
+- [社区多签金库(Polygon)](https://app.safe.global/balances?safe=POL:0x4876eaD85CE358133fb80276EB3631D192196e24)
+- [社区多签金库(Ethereum)](https://app.safe.global/balances?safe=eth:0x7FdA3253c94F09fE6950710E5273165283f8b283)
+- [市政厅多签金库(Ethereum)](https://app.safe.global/balances?safe=eth:0x70F97Ad9dd7E1bFf40c3374A497a7583B0fAdd25)
+- [孵化器多签金库(Ethereum)](https://app.safe.global/balances?safe=eth:0x444C1Cf57b65C011abA9BaBEd05C6b13C11b03b5)
+
+## 资源下载
+- [SeeDAO品牌资源下载](https://app.seedao.xyz/notion/22688928-edae-412d-928f-1695ba88a4ad)
 
 </div>
 </main>
