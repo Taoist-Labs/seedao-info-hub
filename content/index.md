@@ -15,6 +15,7 @@ title: SeeDAO信息导航
 
 <div class="site-header">
     <img src="images/logo.svg" alt="SeeDAO Info Hub Logo" class="site-logo">
+    <a href="https://github.com/taoist-labs/seedao-info-hub/issues" target="_blank" class="submit-button">提交新信息</a>
 </div>
 
 # 欢迎来到信息导航，一起探索SeeDAO
@@ -23,8 +24,6 @@ title: SeeDAO信息导航
     <input type="text" id="search" placeholder="Search for guides, tools, or documentation..." />
     <button id="searchButton">Search</button>
 </div>
-
-Explore the various sections of our info hub to find guides, tools, news, and more about SeeDAO.
 
 ## 社区各站点
 - [SeeDAO官网](https://seedao.xyz/)
@@ -77,6 +76,10 @@ Explore the various sections of our info hub to find guides, tools, news, and mo
 
 ## 资源下载
 - [SeeDAO品牌资源下载](https://app.seedao.xyz/notion/22688928-edae-412d-928f-1695ba88a4ad)
+
+## Submit New Information
+If you have new information to add, please click the button below:
+<button>Submit New Information</button>
 
 </div>
 </main>
