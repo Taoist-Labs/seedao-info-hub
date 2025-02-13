@@ -15,7 +15,7 @@ title: SeeDAO信息导航
 
 <div class="site-header">
     <img src="images/logo.svg" alt="SeeDAO Info Hub Logo" class="site-logo">
-    <a href="https://github.com/taoist-labs/seedao-info-hub/issues" target="_blank" class="submit-button">提交新信息</a>
+    <a href="https://github.com/seedao-opensource" target="_blank" class="submit-button">提交新信息</a>
 </div>
 
 <div class="search-container">

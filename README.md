@@ -20,10 +20,6 @@ A centralized information hub for SeeDAO, providing easy access to guides, rules
 ### Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/Taoist-Labs/seedao-info-hub.git
-cd seedao-info-hub
-```
 
 2. Install dependencies:
 ```bash
