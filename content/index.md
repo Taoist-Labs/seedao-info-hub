@@ -14,33 +14,24 @@ title: SeeDAO信息导航
     <meta property="og:url" content="https://seedao-info-hub.netlify.app/">
     <meta property="og:title" content="SeeDAO信息导航 | 官方链接、治理工具、社区应用一站式导航">
     <meta property="og:description" content="SeeDAO官方信息导航站 - 提供SeeDAO所有官方网站、治理工具、社区应用、社交媒体、合约地址等重要信息的一站式导航。">
+    <meta property="og:image" content="https://seedao-info-hub.netlify.app/images/logo.svg">
+    <meta property="og:image:type" content="image/svg+xml">
+    <meta property="og:image:width" content="512">
+    <meta property="og:image:height" content="512">
 
     <!-- Twitter -->
-    <meta property="twitter:card" content="summary">
-    <meta property="twitter:url" content="https://seedao-info-hub.netlify.app/">
-    <meta property="twitter:title" content="SeeDAO信息导航 | 官方链接、治理工具、社区应用一站式导航">
-    <meta property="twitter:description" content="SeeDAO官方信息导航站 - 提供SeeDAO所有官方网站、治理工具、社区应用、社交媒体、合约地址等重要信息的一站式导航。">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@see_dao">
+    <meta name="twitter:url" content="https://seedao-info-hub.netlify.app/">
+    <meta name="twitter:title" content="SeeDAO信息导航 | 官方链接、治理工具、社区应用一站式导航">
+    <meta name="twitter:description" content="SeeDAO官方信息导航站 - 提供SeeDAO所有官方网站、治理工具、社区应用、社交媒体、合约地址等重要信息的一站式导航。">
+    <meta name="twitter:image" content="https://seedao-info-hub.netlify.app/images/logo.svg">
+    <meta name="twitter:image:alt" content="SeeDAO Logo">
 
     <link rel="canonical" href="https://seedao-info-hub.netlify.app/">
     <link rel="stylesheet" type="text/css" href="styles.css">
     <link rel="icon" type="image/svg+xml" href="images/logo.svg">
     <script src="search.js" defer></script>
-
-    <!-- JSON-LD structured data -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebSite",
-      "name": "SeeDAO信息导航",
-      "url": "https://seedao-info-hub.netlify.app",
-      "description": "SeeDAO官方信息导航站 - 提供SeeDAO所有官方网站、治理工具、社区应用、社交媒体、合约地址等重要信息的一站式导航。",
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": "https://seedao-info-hub.netlify.app/?q={search_term_string}",
-        "query-input": "required name=search_term_string"
-      }
-    }
-    </script>
 </head>
 
 <main>
