@@ -26,7 +26,7 @@ title: SeeDAO信息导航
 <div class="two-column-layout">
   <div class="column left-column">
 
-## 社区各站点
+## 社区各官方站点
 - [SeeDAO官网](https://seedao.xyz/)
 - [SeeDAO节点大会网站](https://node.seedao.xyz/)
 - [SeeDAO SEED官网](https://seed.seedao.xyz/)
@@ -62,7 +62,7 @@ title: SeeDAO信息导航
   </div>
   <div class="column right-column">
 
-## 社区社交媒体
+## 社区社交媒体/媒体
 - [SeeDAO X(中文)](https://x.com/see_dao)
 - [SeeDAO X(英文)](https://x.com/en_seedao)
 - [SeeDAO Discord](https://discord.com/invite/seedao-xyz)
@@ -83,7 +83,7 @@ title: SeeDAO信息导航
 - [DeSchool](https://deschool.app/origin/plaza)
 
 
-## SeeDAO 合约地址
+## SeeDAO各合约地址
 - [SeeDAO Seed合约(Ethereum)](https://etherscan.io/address/0x30093266e34a816a53e302be3e59a93b52792fd4)
 - [SeeDAO节点SBT(Ethereum)](https://etherscan.io/address/0x9d34D407D8586478b3e4c39BE633ED3D7be1c80C)
 - [SeeDAO SNS合约(Polygon)](https://polygonscan.com/token/0x5f3bd0ce4445e96f2d7dcc4bba883378ead8e10f)
