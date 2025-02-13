@@ -83,8 +83,7 @@ title: SeeDAO信息导航
 - [孵化器多签金库(Ethereum)](https://app.safe.global/balances?safe=eth:0x444C1Cf57b65C011abA9BaBEd05C6b13C11b03b5)
 
 ## 资源下载
-- [SeeDAO品牌资源下载](https://app.seedao.xyz/notion/22688928-edae-412d-928f-1695ba88a4ad)
-
+- [品牌资源下载 Logo/PPT模版/海报模版](https://app.seedao.xyz/notion/22688928-edae-412d-928f-1695ba88a4ad)
 
 
 
