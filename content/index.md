@@ -3,11 +3,44 @@ title: SeeDAO信息导航
 ---
 
 <head>
-    <title>SeeDAO信息导航</title>
-    <meta name="description" content="SeeDAO信息导航｜所有SeeDAO相关的指引、规范、工具和新闻链接聚合">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SeeDAO信息导航 | 官方链接、治理工具、社区应用一站式导航</title>
+    <meta name="description" content="SeeDAO官方信息导航站 - 提供SeeDAO所有官方网站、治理工具、社区应用、社交媒体、合约地址等重要信息的一站式导航。包含完整的SeeDAO生态资源链接。">
+    <meta name="keywords" content="SeeDAO,DAO,Web3,区块链,治理,社区,数字组织,NFT,Token">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://seedao-info-hub.netlify.app/">
+    <meta property="og:title" content="SeeDAO信息导航 | 官方链接、治理工具、社区应用一站式导航">
+    <meta property="og:description" content="SeeDAO官方信息导航站 - 提供SeeDAO所有官方网站、治理工具、社区应用、社交媒体、合约地址等重要信息的一站式导航。">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary">
+    <meta property="twitter:url" content="https://seedao-info-hub.netlify.app/">
+    <meta property="twitter:title" content="SeeDAO信息导航 | 官方链接、治理工具、社区应用一站式导航">
+    <meta property="twitter:description" content="SeeDAO官方信息导航站 - 提供SeeDAO所有官方网站、治理工具、社区应用、社交媒体、合约地址等重要信息的一站式导航。">
+
+    <link rel="canonical" href="https://seedao-info-hub.netlify.app/">
     <link rel="stylesheet" type="text/css" href="styles.css">
-    <script src="search.js"></script>
     <link rel="icon" type="image/svg+xml" href="images/logo.svg">
+    <script src="search.js" defer></script>
+
+    <!-- JSON-LD structured data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "SeeDAO信息导航",
+      "url": "https://seedao-info-hub.netlify.app",
+      "description": "SeeDAO官方信息导航站 - 提供SeeDAO所有官方网站、治理工具、社区应用、社交媒体、合约地址等重要信息的一站式导航。",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://seedao-info-hub.netlify.app/?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
 </head>
 
 <main>
