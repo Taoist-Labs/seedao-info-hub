@@ -23,6 +23,9 @@ title: SeeDAO信息导航
     <button id="searchButton">搜索</button>
 </div>
 
+<div class="two-column-layout">
+  <div class="column left-column">
+
 ## 社区各站点
 - [SeeDAO官网](https://seedao.xyz/)
 - [SeeDAO节点大会网站](https://node.seedao.xyz/)
@@ -51,6 +54,13 @@ title: SeeDAO信息导航
 - [当季节点列表](https://app.seedao.xyz/node)
 - [SeeDAO积分总榜](https://app.seedao.xyz/ranking)
 
+## 其他
+
+  </div>
+  <div class="column right-column">
+
+
+
 ## 社区应用
 - [SNS注册](https://app.seedao.xyz/sns/register)
 - [社区日历](https://app.seedao.xyz/online-event)
@@ -74,6 +84,12 @@ title: SeeDAO信息导航
 
 ## 资源下载
 - [SeeDAO品牌资源下载](https://app.seedao.xyz/notion/22688928-edae-412d-928f-1695ba88a4ad)
+
+
+
+
+  </div>
+</div>
 
 </div>
 </main>
